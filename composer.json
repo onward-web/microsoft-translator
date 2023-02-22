@@ -16,7 +16,7 @@
         {
             "type": "vcs",
             "url":  "https://github.com/onward-web/buzz.git"
-        },
+        }
     ],    
     "require": {
         "kriswallsmith/buzz": "dev-onward",
