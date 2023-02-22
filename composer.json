@@ -11,13 +11,7 @@
             "email": "matthiasnoback@gmail.com",
             "homepage": "http://php-and-symfony.matthiasnoback.nl"
         }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/onward-web/buzz.git"
-        }
-    ],    
+    ],   
     "require": {
         "kriswallsmith/buzz": "dev-onward",
         "doctrine/cache": "^1.11"
